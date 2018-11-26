@@ -1,0 +1,3 @@
+curl https://demo7722302.mockable.io/getHindiStrings > app/src/main/res/values-hi/strings.xml
+curl https://demo7722302.mockable.io/getEnglishStrings > app/src/main/res/values/strings.xml
+./gradlew assembleDebug
